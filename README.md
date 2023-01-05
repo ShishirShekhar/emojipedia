@@ -12,7 +12,7 @@
 
 
 ## 🏃‍♂️ Run app
-> node index.js
+> npm run start
 
 
 ## 👀 Glance to the Project
